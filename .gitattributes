@@ -1,0 +1,5 @@
+*.mdwn text ident
+*.html text ident
+*.svg text ident
+*.sh text ident
+Makefile text ident
