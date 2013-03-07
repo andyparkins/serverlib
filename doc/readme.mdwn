@@ -1,0 +1,4 @@
+FussyLogic ServerLib is (to be) a toolkit library for writing servers.
+
+Typically for vertical applications that talk to some sort of device out
+in the field.
